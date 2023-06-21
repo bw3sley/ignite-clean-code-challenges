@@ -44,7 +44,7 @@ export default async function getData(req, res) {
 
   const result = {
     github,
-    category: category.title
+    category: category?.title
   }
 
   return result
