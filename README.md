@@ -1,17 +1,5 @@
 # Clean code 
 
-<a href="./LICENSE.md">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"/>
-</a>
-
-</br>
-
-<center>
-    <img src="./assets/cc-cover.webp" />
-</center>
-
-[Click here to see the design](https://www.figma.com/community/file/1113573231685349036/Ignite-Feed) you need to have an account on [Figma](https://www.figma.com/).
-
 ## 💻 About this project
 
 This repo contains 8 solved challenges from the Clean Code course provided by [@Rocketseat](https://rocketseat.com.br). During the course I could learn more about principles like: domain driven design and solid using NodeJS. Besides that, I could learn more about clean code patterns using ReactJS and TypeScript.
