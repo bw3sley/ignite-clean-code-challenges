@@ -1,4 +1,4 @@
-# Ignite Feed
+# Clean code 
 
 <a href="./LICENSE.md">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"/>
@@ -12,7 +12,7 @@
 
 ## 💻 About this project
 
-This app was developed during the first module of the Rocketseat Ignite program, aimed at practicing key **ReactJS** concepts. I applied state management, state immutability, lists and keys, properties, and componentization.
+This repo contains 8 solved challenges from the Clean Code course provided by [@Rocketseat](https://rocketseat.com.br). During the course I could learn more about principles like: domain driven design and solid using NodeJS. Besides that, I could learn more about clean code patterns using ReactJS and TypeScript.
 
 I'll be happy if you could send me any feedback about the project, code, structure or anything that you can report that could make me better as a developer!
 
