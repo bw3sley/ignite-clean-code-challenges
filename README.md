@@ -6,7 +6,9 @@
 
 </br>
 
-<img src="./assets/cc-cover.webp" width="100%">
+<center>
+    <img src="./assets/cc-cover.webp" />
+</center>
 
 [Click here to see the design](https://www.figma.com/community/file/1113573231685349036/Ignite-Feed) you need to have an account on [Figma](https://www.figma.com/).
 
